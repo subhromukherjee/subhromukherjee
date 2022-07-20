@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi , I'm Subhro Mukherjee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> <img src="github.com/subhromukherjee/subhromukherjee/edit/main/README.md" width="35"></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hahmlet&size=24&lines=Computer+Science+Engineer;AI+%2F+ML+Practitioner;Python+%2F+Java+Developer;Part+of+today's+tech-savvy+younger+generation)](https://git.io/typing-svg)"></a>
 </p>
