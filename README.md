@@ -1,5 +1,3 @@
-
-<h1 align="center">Hi , I'm Subhro Mukherjee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h1 align="center"> <img src="https://en.bloggif.com/tmp/82d30fc10a503f410415e167e5682d71/text.gif?1658300095" width="500"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
