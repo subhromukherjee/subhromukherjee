@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hahmlet&size=24&lines=Computer+Science+Engineer;AI+%2F+ML+Practitioner;Python+%2F+Java+Developer;Part+of+today's+tech-savvy+younger+generation)](https://git.io/typing-svg)"></a>
 </p>
 <hr/>
-<h4 align="center">I am a final year student at VIT pursuing B.Tech. in CSE with spl. in Business Systems. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a final year student at VIT pursuing B.Tech. in CSE with spl. in Business Systems. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. </h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhromukherjee&label=Profile%20views&color=0e75b6&style=plastic" alt="subhromukherjee" /> </p>
 
